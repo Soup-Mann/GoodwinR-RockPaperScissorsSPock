@@ -1,0 +1,18 @@
+body{
+    background-image: url(../assets/PongBackground.jpg);
+   background-position: center;
+   background-position: top;
+   
+}
+
+.titleWords{
+color: white;
+}
+
+.buttonSide{
+    /* display: flex; */
+    justify-content: end;
+}
+.buttonSide1{
+ /* display: flex; */
+}
