@@ -1,5 +1,12 @@
+@font-face{
+    font-family:"PressStart2p";
+    src: url(../fonts/PressStart2P-Regular.ttf);
+}
+
+
+
 body{
-    background-image: url(../assets/PongBackground.jpg);
+    background-image: url(../assets/8birspace.webp);
    background-position: center;
    background-position: top;
    
@@ -7,6 +14,11 @@ body{
 
 .titleWords{
 color: white;
+font-family: PressStart2p;
+}
+
+.font8{
+    font-family: PressStart2p;
 }
 
 .buttonSide{
@@ -16,3 +28,24 @@ color: white;
 .buttonSide1{
  /* display: flex; */
 }
+
+.btn-primary{
+    border-radius: 0;
+background-color: white;
+color: black;
+border-color: white;
+}
+
+.injectRow{
+    padding-left: 300px;
+}
+
+.bottomInject{
+    border-radius: 1;
+    padding-left: 5px;
+}
+
+.bestOf{
+    border-radius: 0;
+}
+
