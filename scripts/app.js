@@ -4,7 +4,7 @@ let item2 = document.getElementById("item2");
 let item4 = document.getElementById("item4");
 getData()
 // let  = document.getElementById("rock");
-let paper = document.getElementById("paper");
+let paper = document.getElementById("disapear");
 let scissors = document.getElementById("scissors");
 let lizard = document.getElementById("lizard");
 let spock = document.getElementById("spock");
